@@ -17,12 +17,6 @@ Welcome to **BAK-Tech**, a channel and platform dedicated to teaching technology
 
 ---
 
-## 🔗 How to Use Font Awesome
-To include Font Awesome in your project, add the following script tag to your HTML:
-<script src="https://kit.fontawesome.com/97ea074b2c.js" crossorigin="anonymous"></script>
-
----
-
 ## About the Channel  
 
 BAK-Tech provides educational content focused on:  
